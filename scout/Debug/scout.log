@@ -1,0 +1,28 @@
+﻿Build started 10/25/2017 5:16:12 PM.
+     1>Project "C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\scout\scout.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\sfml\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(34): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(35): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(38): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(40): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(44): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(46): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(50): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(52): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(56): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(58): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(62): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(64): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(68): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(70): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\test\documents\visual studio 2013\projects\scout\scout\main.cpp(74): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\Debug\scout.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\sfml\lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\Debug\scout.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\Debug\scout.lib" /MACHINE:X86 Debug\main.obj
+         scout.vcxproj -> C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\Debug\scout.exe
+     1>Done Building Project "C:\Users\Test\Documents\Visual Studio 2013\Projects\scout\scout\scout.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.88
